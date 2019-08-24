@@ -1,0 +1,21 @@
+.body {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 30px;
+    margin: 10px 50px;
+}
+
+.top div {
+    border: 2px solid black;
+    margin: 1px;
+    padding: 8px 8px 2px 8px;
+   
+}
+
+.score {
+    background: bisque;
+}
+
+.cell div {
+    text-align: center;
+}
